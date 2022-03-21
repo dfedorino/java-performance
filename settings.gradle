@@ -1,0 +1,6 @@
+rootProject.name = 'java-performance'
+include 'ch2-jit-and-code-cache'
+include 'ch6-memory-excercise'
+include 'ch10-tuning-string-pool'
+include 'ch12-heap'
+
