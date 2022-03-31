@@ -4,4 +4,5 @@ include 'ch6-memory-excercise'
 include 'ch10-tuning-string-pool'
 include 'ch12-heap'
 include 'ch16-jmc'
+include 'ch17-benchmarking'
 
