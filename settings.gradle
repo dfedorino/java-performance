@@ -6,4 +6,5 @@ include 'ch12-heap'
 include 'ch16-jmc'
 include 'ch17-benchmarking'
 include 'ch18-jmh'
+include 'ch19-profiling-exercise'
 
