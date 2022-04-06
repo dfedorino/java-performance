@@ -8,4 +8,5 @@ include 'ch17-benchmarking'
 include 'ch18-jmh'
 include 'ch19-profiling-exercise'
 include 'ch20-compare-performance'
+include 'ch22-coding-choices'
 
